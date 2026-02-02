@@ -38,13 +38,13 @@ Consider this scenario: two students, Alice and Bob, both have an average test s
 
 | Test | Score |
 |------|-------|
-| Test 1 | 95% |
-| Test 2 | 62% |
-| Test 3 | 88% |
-| Test 4 | 70% |
-| Test 5 | 85% |
+| Test 1 | 20% |
+| Test 2 | 80% |
+| Test 3 | 100% |
+| Test 4 | 100% |
+| Test 5 | 100% |
 
-**Mean:** $\bar{x} = \frac{95 + 62 + 88 + 70 + 85}{5} = \frac{400}{5} = 80\%$
+**Mean:** $\bar{x} = \frac{20 + 80 + 100 + 100 + 100}{5} = \frac{400}{5} = 80\%$
 
 Both students have the same average, but their performances tell very different stories:
 
@@ -55,9 +55,9 @@ This is precisely where standard deviation becomes invaluable. It captures the *
 
 **Alice's Standard Deviation:** $\sigma \approx 1.41\%$
 
-**Bob's Standard Deviation:** $\sigma \approx 12.17\%$
+**Bob's Standard Deviation:** $\sigma \approx 30.98\%$
 
-The numbers confirm our intuition: Bob's performance is approximately **8.6 times more variable** than Alice's.
+The numbers confirm our intuition: Bob's performance is approximately **21.97 times more variable** than Alice's.
 
 ## A Second Illustrative Example: Manufacturing Precision
 

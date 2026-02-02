@@ -1,6 +1,6 @@
 ---
 author: Drew Smirnoff
-contribute_url: https://github.com/andrinoff/latex-doc-template/edit/main/content.md
+contribute_url: https://github.com/andrinoff/standrad_deviation/edit/main/content.md
 contribute_text: Edit this page
 license: MIT License
 license_url: https://opensource.org/licenses/MIT
